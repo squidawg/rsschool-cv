@@ -23,3 +23,13 @@ function smash (words) {
    return text
 };
 ```
+## Education
+- CS 50’s Introduction to Computer Science authorized by Harvard and offered through Edx
+- The Arduino Platform and C Programming authorized by University of California, Irvine and offered through Coursera
+- Crash course on Python  authorized by Google and offered through Coursera
+- Using Python to interact with the Operating System authorized by Google and offered through Coursera
+- Algorithms: theory and practice. Methods authorized by Computer Science Center and offered through Stepik (in progress)
+
+## Languages 
+- English B2+
+- Russian - Native speaker
