@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://your-github-account.github.io/rsschool-cv/cv 
+https://squidawg.github.io/rsschool-cv/cv 
