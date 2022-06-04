@@ -1,7 +1,7 @@
 # Aleksei Kobyzev
 Junior Frontend Developer (Beginner)
 ## Contact info
-- Phone: number +995 551 530 697
+- Phone: number +995&nbsp;551&nbsp;530&nbsp;697
 - Email: alex.kronin@me.com
 - GitHub: [squidawg](https://github.com/squidawg)
 - Telegram: [squidawg](https://t.me/squdawg)
